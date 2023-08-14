@@ -8,12 +8,12 @@
 
 ## What is Mixed Messages?
 
-[Mixed Messages](https://b-oezocak.github.io/Codecademy-PP-Mixed_Messages/) is a message generator program. Every time a user runs a program, they should get a new, randomized output. <br>
+[Mixed Messages](https://b-oezocak.github.io/Codecademy-PP-Mixed_Messages/) is a message generator program. Every time a user runs the program, they should get a new, randomized output. <br>
 -Codecademy
 
 ## What stage of development am I in right now?
 
-Mixed Messages isn't live yet. I am currently planning the project and visualizing my end result.
+Mixed Messages is live and should have all planned and discussed functionalities deployed.
 
 ### 📝 Content Team
 
